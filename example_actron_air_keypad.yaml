@@ -8,6 +8,7 @@
 #   gpio_keypad_pin: "GPIO32"
 #   gpio_i2c_sda: "GPIO21"
 #   gpio_i2c_scl: "GPIO22"
+#   dac_voltage: "3300.0"
 #   # Voltage calibration (millivolts)
 #   voltage_power: "5000.0"
 #   voltage_fan: "755.0"
